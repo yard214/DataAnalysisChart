@@ -13,24 +13,11 @@ npm run dev
 npm run build
 
 ```
+DataSet: static\dataset\【第五组】国家自然科学基金杰出青年信息统计表（12-17）-五组数据集汇总表.xlsx
+PPT: ppt\【PPT】【第五组】国家杰出青年数据集录入及图表化展示系统（12-17）.pptx
 
-# Folder structure
-* build - webpack config files
-* config - webpack config files
-* dist - build
-* src -your app
-    * api
-    * assets
-    * common
-    * components - your vue components
-    * mock
-    * styles
-    * views - your pages
-    * vuex
-    * App.vue
-    * main.js - main file
-    * routes.js
-* static - static assets
+录屏演示Demo：
+
 
 # Browser support
 
